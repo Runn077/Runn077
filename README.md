@@ -6,6 +6,8 @@ I am a javascript developer
 - Nest
 - Express
 - React
+- MySQL
+- PostgreSQL
 
 
 
